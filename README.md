@@ -13,7 +13,7 @@ into batches using symbolic links, for use in downstream annotation pipelines.
 
 ## Input
 - rRNA-removed sample directories under `4_rrna_rm/`
-- Expected file naming: `{sample}_trim_xh_xrrna_R1.fq.gz` and `_R2.fq.gz`
+- Expected file naming: `{sample}_trim_xh_xrrna_R1.fq.gz` and `_R2.fq.gz` ##can be changed in the script
 
 ## Output
 - Symbolic links distributed across `input_batch1/`, `input_batch2/`, etc.
