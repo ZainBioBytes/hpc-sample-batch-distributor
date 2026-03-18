@@ -20,7 +20,7 @@ into batches using symbolic links, for use in downstream annotation pipelines.
 
 ## Usage
 ```bash
-qsub distribute_samples_to_batches.sh
+qsub symlink.sh
 ```
 
 ## Parameters
